@@ -21,7 +21,7 @@ I graduated from college in 1999, near the apex of the tech bubble. I moved back
 
 Fast forward a year and a half later and the bubble had burst. My company, Ask Jeeves, laid off over 25% of our workforce, and other companies were following suit or even folding. Americans, frightened by the crashing stock market (the tech heavy nasdaq lost over half it's value - see chart below) decided to plow their money into housing.
 
-![](http://www.liquidrhymes.com/wp-content/uploads/2010/06/Screen-shot-2010-06-25-at-5.07.08-PM-e1277510888821.png)
+![](/assets/wp-content/uploads/2010/06/Screen-shot-2010-06-25-at-5.07.08-PM-e1277510888821.png)
 
 And why not? For as long as I can recall my parents have always told me that "buying a home is the only/best way to build equity". Many of my friends happen to be Asian, and for some reason Asian parents seem to believe that renting is "throwing your money away". Better to rent as the home will always retain it's value. This advice may have been true in my parent's generation. But now, in the bay area, it's complete bullshit.
 
@@ -50,7 +50,7 @@ Let's take a look at how this transaction will work for him using the [New York 
 
 With these numbers the calculator tells us that buying a home is better than renting after **21 years!**
 
-[![](http://www.liquidrhymes.com/wp-content/uploads/2010/06/Screen-shot-2010-06-25-at-5.42.30-PM-e1277513048425.png)](http://www.liquidrhymes.com/wp-content/uploads/2010/06/Screen-shot-2010-06-25-at-5.42.30-PM.png)
+[![](/assets/wp-content/uploads/2010/06/Screen-shot-2010-06-25-at-5.42.30-PM-e1277513048425.png)](/assets/wp-content/uploads/2010/06/Screen-shot-2010-06-25-at-5.42.30-PM.png)
 
 Why is that? Because:
 

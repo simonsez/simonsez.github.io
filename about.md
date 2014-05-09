@@ -8,7 +8,7 @@ title: About
 wordpress_id: 234
 ---
 
-![Simon with Leonard's Truly Awesome Malasadas](http://www.liquidrhymes.com/wp-content/uploads/2010/06/simon.jpg)
+![Simon with Leonard's Truly Awesome Malasadas](/assets/wp-content/uploads/2010/06/simon.jpg)
 
 I’m a 30-something technology guy living in San Francisco’s [Mission District](http://en.wikipedia.org/wiki/Mission_District,_San_Francisco). I’m from [Berkeley, California](http://en.wikipedia.org/wiki/Berkeley,_California) (which some people believe is the most liberal place ever), and I went to school at [UC Santa Barbara](http://www.ucsb.edu/) (UCSB), where I studied computer science with a minor in awesome sunshine.
 

@@ -16,7 +16,7 @@ tags:
 
 Yesterday I noticed a ton of my friends on Facebook were "liking" **‎:|:|:|:|:|:| Smoking Hot Bartenders :|:|:|:|:|:|**.  Noticing that even some friends who I would never think would like that (girls), I decided to click on it and take a look. 
 
-[![](http://www.liquidrhymes.com/wp-content/uploads/2010/08/friends-like-hot-bartenders.png)](http://www.liquidrhymes.com/wp-content/uploads/2010/08/friends-like-hot-bartenders.png)
+[![](/assets/wp-content/uploads/2010/08/friends-like-hot-bartenders.png)](/assets/wp-content/uploads/2010/08/friends-like-hot-bartenders.png)
 
 The "Smoking Hot Bartenders" site, of course, is some sort of spam site where the user is prompted to fill out some leadgen form (or offer) in order to access pictures of the "smoking hot bartenders". Declining to do so, I closed the window and figured that was that.
 
@@ -26,7 +26,7 @@ I decided to take a look at the site, [http://cutebabesbartending.info/](http://
 
 The first thing you see when you land on the site, most likely from Facebook (and hence logged in), is a screen with some hot girls and a link to click through. This link is the key to the scheme.
 
-[![](http://www.liquidrhymes.com/wp-content/uploads/2010/08/Screen-shot-2010-08-25-at-11.43.35-AM.png)](http://www.liquidrhymes.com/wp-content/uploads/2010/08/Screen-shot-2010-08-25-at-11.43.35-AM.png)
+[![](/assets/wp-content/uploads/2010/08/Screen-shot-2010-08-25-at-11.43.35-AM.png)](/assets/wp-content/uploads/2010/08/Screen-shot-2010-08-25-at-11.43.35-AM.png)
 
 Taking a look the source of the page we see:
 [html]
@@ -65,7 +65,7 @@ Note we have here an absolutely positioned DIV with an IFRAME to the facebook li
 This is kind of ingenious: they are re-drawing the Facebook like button so it follows your mouse around the screen, and when you click on the link you click on both the like button and the link to the next page!
 
 But why don't you see the like button? It's because the opacity of the parent element is set to 0 (ie completely transparent, thanks to commenter Colby Russell for correcting me). Let's change this and see what happens:
-[![](http://www.liquidrhymes.com/wp-content/uploads/2010/08/smoking-hot-scam.png)](http://www.liquidrhymes.com/wp-content/uploads/2010/08/smoking-hot-scam.png)
+[![](/assets/wp-content/uploads/2010/08/smoking-hot-scam.png)](/assets/wp-content/uploads/2010/08/smoking-hot-scam.png)
 
 Look at that Facebook like button there by my cursor! 
 

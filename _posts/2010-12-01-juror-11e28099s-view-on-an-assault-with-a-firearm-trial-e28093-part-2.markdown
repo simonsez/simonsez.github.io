@@ -12,7 +12,7 @@ tags:
 - juryduty
 ---
 
-[![](http://www.liquidrhymes.com/wp-content/uploads/2010/12/courtoom.jpg)](http://www.flickr.com/photos/tidewatermuse/2441513887/)
+[![](/assets/wp-content/uploads/2010/12/courtoom.jpg)](http://www.flickr.com/photos/tidewatermuse/2441513887/)
 
 
 

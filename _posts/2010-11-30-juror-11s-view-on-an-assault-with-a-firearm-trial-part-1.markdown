@@ -10,7 +10,7 @@ categories:
 - Bay Area
 ---
 
-[![](http://www.liquidrhymes.com/wp-content/uploads/2010/11/jurors.jpg)](http://www.flickr.com/photos/fuschia_foot/)
+[![](/assets/wp-content/uploads/2010/11/jurors.jpg)](http://www.flickr.com/photos/fuschia_foot/)
 
 
 Photo courtesy of [fuschia_foot](http://www.flickr.com/photos/fuschia_foot/)

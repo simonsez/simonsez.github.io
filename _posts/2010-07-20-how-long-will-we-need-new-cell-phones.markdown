@@ -60,10 +60,10 @@ But I don't know if it's always been that way; I remember in high school my brot
 Could it be that the same might happen to mobile phones? Will we get to the point where we won't upgrade every 2 years when the contract expires, because the new phone doesn't do much more than the previous one? 
 
 If so, it probably won't happen soon. According to a [recent FCC Report](https://www.fcc.gov/14report.pdf), most (**58%** as of December 2009) Americans still don't have a smart phone:
-[![](http://www.liquidrhymes.com/wp-content/uploads/2010/07/Screen-shot-2010-07-19-at-10.09.13-PM.png)](http://www.liquidrhymes.com/wp-content/uploads/2010/07/Screen-shot-2010-07-19-at-10.09.13-PM.png)
+[![](/assets/wp-content/uploads/2010/07/Screen-shot-2010-07-19-at-10.09.13-PM.png)](/assets/wp-content/uploads/2010/07/Screen-shot-2010-07-19-at-10.09.13-PM.png)
 
 In fact, many (**37%**) Americans don't use data:
-[![](http://www.liquidrhymes.com/wp-content/uploads/2010/07/Screen-shot-2010-07-19-at-10.09.27-PM.png)](http://www.liquidrhymes.com/wp-content/uploads/2010/07/Screen-shot-2010-07-19-at-10.09.27-PM.png)
+[![](/assets/wp-content/uploads/2010/07/Screen-shot-2010-07-19-at-10.09.27-PM.png)](/assets/wp-content/uploads/2010/07/Screen-shot-2010-07-19-at-10.09.27-PM.png)
 
 So we've got a ways to go before Americans reach the point when they don't feel like they need to upgrade, strictly on the features. Beyond features, battery life is another area where SmartPhones can compete for new customers (HTC Evo not keeping more than a 3 hour charge after 2 years? Buy this new one!) Design might be another area where handset manufacturers can compete - a few years ago everyone I knew wanted a [Motorola RAZR](http://orderinstant.com/zencart/images/V3%20PINK.jpg) because it was **the fashion accessory**!
 

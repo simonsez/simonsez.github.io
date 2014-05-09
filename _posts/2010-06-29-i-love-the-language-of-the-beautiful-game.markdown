@@ -12,7 +12,7 @@ categories:
 - Sport
 ---
 
-![](http://www.liquidrhymes.com/wp-content/uploads/2010/06/i_speak_soccer_calendar-p1586174287843237562vzh5_400.jpg)
+![](/assets/wp-content/uploads/2010/06/i_speak_soccer_calendar-p1586174287843237562vzh5_400.jpg)
 
 As a normal American sports fan I find it tough to appreciate soccer outside of the amazing event that is the world cup. Following soccer can be pretty tough in the US when the normal outlets (espn, the newspapers) don't cover it in depth and most of your friends don't care that Arsenal and Chelsea are playing in the premiership (who?). 
 

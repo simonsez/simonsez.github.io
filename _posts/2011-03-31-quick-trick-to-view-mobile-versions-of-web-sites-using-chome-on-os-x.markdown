@@ -33,14 +33,14 @@ To see the difference take a look at google.com with normal Chrome vs. with the 
 
 Mobile (Android)
 
-![](http://www.liquidrhymes.com/wp-content/uploads/2011/03/Screen-shot-2011-03-31-at-10.43.41-AM-300x222.png)
+![](/assets/wp-content/uploads/2011/03/Screen-shot-2011-03-31-at-10.43.41-AM-300x222.png)
 
 
 
 
 Desktop
 
-![](http://www.liquidrhymes.com/wp-content/uploads/2011/03/Screen-shot-2011-03-31-at-10.46.04-AM-300x222.png)
+![](/assets/wp-content/uploads/2011/03/Screen-shot-2011-03-31-at-10.46.04-AM-300x222.png)
 
 
 
